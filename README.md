@@ -5,3 +5,5 @@ Savings Rate is defaulted to 8%, but changes in that will be rolling soon so tha
 
 
 # Overall, there is a lot to improve and work on, so updates will be coming soon...
+
+**Powered by IEXCloud. Special Thanks to IEXCloud for offering their API at no cost. Visit them at iexcloud.io.**
